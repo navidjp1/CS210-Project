@@ -1,4 +1,4 @@
-# CS210-Project
+# Spotify Recommendation System
 
 This project provides song/playlist recommendations based on an input song or playlist.
 
