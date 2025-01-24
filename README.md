@@ -36,7 +36,3 @@ pip install -r requirements.txt
 ### 5. Run Jupyter Notebook
 
 Open and execute the `spotify_recommendation_system.ipynb` Jupyter Notebook.
-
----
-
-### [Video Demo](https://drive.google.com/file/d/1G75KCfYXLaymvTRdAC99IR2POIQBcsb5/view?usp=sharing)
